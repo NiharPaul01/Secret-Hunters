@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="democratic_pollitics" size="100.000000 133.689835" />
+    <ImageTarget name="science" size="100.000000 133.252579" />
+    <ImageTarget name="english" size="100.000000 142.857147" />
+    <ImageTarget name="hindi" size="100.000000 142.857147" />
+    <ImageTarget name="maths" size="100.000000 143.129776" />
+  </Tracking>
+</QCARConfig>
